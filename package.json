@@ -45,7 +45,7 @@
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         },
-        "branch": "0.64.x"
+        "branch": "pr2076_sync_show_wrong_time_info_0.64.x"
       }
     },
     "widevine": {
