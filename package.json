@@ -42,10 +42,10 @@
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "0.63.x",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
-        }
+        },
+        "branch": "sync_show_wrong_time_info_pr2076_0.63.x"
       }
     },
     "widevine": {
